@@ -64,6 +64,5 @@ Filters/Slicers: For dynamic filtering by Quarter and State.
 Screenshot:
 Show what the dashboard looks like: https://github.com/Mohammadraza256/MADHAV-E-COMMERCE-SALES-DASHBOARD
 https://github.com/Mohammadraza256/ECOOMERCE-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20dashboard.png
-https://github.com/Mohammadraza256/MADHAV-E-COMMERCE-SALES-DASHBOARD?tab=readme-ov-file
 
 Drill-down options (possibly enabled): To explore details beneath top-level summaries.
