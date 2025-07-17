@@ -62,7 +62,7 @@ Data Model: Built with dimensions like Customer, Product, State, Category, Date.
 ✅ User Interaction Features
 Filters/Slicers: For dynamic filtering by Quarter and State.
 Screenshot:
-Show what the dashboard looks like: https://github.com/Mohammadraza256/ECOOMERCE-SALES-DASHBOARD
+Show what the dashboard looks like: https://github.com/Mohammadraza256/MADHAV-E-COMMERCE-SALES-DASHBOARD
 https://github.com/Mohammadraza256/ECOOMERCE-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20dashboard.png
 
 
