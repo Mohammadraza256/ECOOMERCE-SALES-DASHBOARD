@@ -1,7 +1,9 @@
  **E-COMMERCE-SALES-DASHBOARD:**
+ 
  The image is a Sales Dashboard for Madhav E-commerce, providing a comprehensive overview of the company's performance metrics across various dimensions such as time, geography, product categories, and customer behavior.
 
 🎯 **Dashboard Goal**
+
 The primary goal of this dashboard is to provide a centralized, real-time visual summary of key sales and operational metrics for Madhav E-commerce. It helps the business:
 
 Monitor overall sales performance (revenue, profit, quantity).
@@ -15,6 +17,7 @@ Identify seasonal and regional patterns (monthly profits, state-wise sales).
 Make data-driven decisions to optimize marketing, inventory, and sales strategies.
 
 **📊 Key Visuals (Charts & KPIs)**
+
 The dashboard uses a combination of interactive visuals to provide insights at a glance:
 
 🔹 Top Summary KPIs:
@@ -38,6 +41,7 @@ Quantity by Payment Mode	Donut Chart	Displays how customers pay (COD, UPI, EMI, 
 Profit by Sub-Category	Horizontal Bar Chart	Breaks down which specific product types generate the most profit (e.g., Printers, Bookcases).
 
 **🛠️ Technologies Likely Used**
+
 Based on the design and interactivity, this dashboard may have been built using the following tools:
 
 **✅ BI Tools (Visualization Platform)**
@@ -53,11 +57,12 @@ Excel/CSV files
 Sales API or CRM system (Shopify, WooCommerce, etc.)
 
 **✅ Backend Technologies**
+
 ETL Tools: Power Query, SQL scripts, or data pipelines to clean/transform raw data.
 
 Data Model: Built with dimensions like Customer, Product, State, Category, Date.
 
-✅ User Interaction Features
+**✅ User Interaction Features**
 Filters/Slicers: For dynamic filtering by Quarter and State.
 Screenshot:
 Show what the dashboard looks like: 
