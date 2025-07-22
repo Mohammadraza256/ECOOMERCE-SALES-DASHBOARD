@@ -64,6 +64,7 @@ Filters/Slicers: For dynamic filtering by Quarter and State.
 Screenshot:
 Show what the dashboard looks like: 
 website: https://app.powerbi.com/groups/me/reports/57428318-ef66-4c02-9c5f-b431f2f5b349?pbi_source=desktop
+
 ss - https://github.com/Mohammadraza256/ECOOMERCE-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20dashboard.png
 
 Drill-down options (possibly enabled): To explore details beneath top-level summaries.
