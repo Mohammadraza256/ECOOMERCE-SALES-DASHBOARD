@@ -1,4 +1,4 @@
- E-COMMERCE-SALES-DASHBOARD:
+ *E-COMMERCE-SALES-DASHBOARD:*
  The image is a Sales Dashboard for Madhav E-commerce, providing a comprehensive overview of the company's performance metrics across various dimensions such as time, geography, product categories, and customer behavior.
 
 🎯 Dashboard Goal
